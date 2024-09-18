@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.indus.training.ui","c":"StudentUserInterface","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"com.indus.training.ui","c":"StudentUserInterface","l":"StudentUserInterface()","u":"%3Cinit%3E()"}];updateSearchResults();
